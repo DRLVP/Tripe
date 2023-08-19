@@ -1,0 +1,10 @@
+/**********CSS VARIABLES**********/
+:root{
+    --text-color:#fff;
+    --bg-color:#000;
+    --main-color:#ffa343;
+
+    --h1-font:5rem;
+    --h2-font:2.5rem;
+    --p-font:1rem;
+}
